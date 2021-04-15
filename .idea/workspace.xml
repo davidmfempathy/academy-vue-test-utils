@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eed60dc6-fd16-4bc5-b4d6-673a751c7a1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/app.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/app.spec.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rCecZqmai7djpD1YakrZbXtsY5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed60dc6-fd16-4bc5-b4d6-673a751c7a1c" name="Default Changelist" comment="" />
+      <created>1618484578794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618484578794</updated>
+      <workItem from="1618484579892" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="-773" width="602" height="490" key="find.popup" timestamp="1618484616605">
+      <screen x="-190" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="469" y="-773" width="602" height="490" key="find.popup/0.25.1440.806/-190.-1055.1920.1055@-190.-1055.1920.1055" timestamp="1618484616605" />
+    <state x="435" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1618484585477">
+      <screen x="-190" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="435" y="-821" width="670" height="676" key="search.everywhere.popup/0.25.1440.806/-190.-1055.1920.1055@-190.-1055.1920.1055" timestamp="1618484585477" />
+  </component>
+</project>

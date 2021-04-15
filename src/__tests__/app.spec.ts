@@ -44,7 +44,7 @@ describe('App tests', () => {
     const optionsStub = ['x', 'y', 'z']
 
     jest.mock('axios');
-    axios.get = jest.fn().mockImplementationOnce(() => Promise.resolve({ data: optionsStub }))
+    axios.get = jest.fn().mockImplementationOnce(() => Promise.resolve({data: optionsStub}))
 
     const wrapper = mount(App)
 
@@ -55,16 +55,7 @@ describe('App tests', () => {
     expect(axios.get).toHaveBeenCalledTimes(1);
     expect(axios.get).toHaveBeenCalledWith('http://localhost:3001/options');
 
-<<<<<<< HEAD
-  test('fakeTimers', async () => {
-    const wrapper = mount(App);
-
     jest.advanceTimersByTime(500);
-    //jest.advanceTimersByTime(500);
-=======
-    jest.advanceTimersByTime(500);
->>>>>>> b267e0b84dc5df1161bf88b8ef7c9e3b5d20c53f
-
     await wrapper.vm.$nextTick();
 
     expect(wrapper.find('.x-status').text()).toBe('on');
